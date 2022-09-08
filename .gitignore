@@ -1,1 +1,4 @@
 .DS_Store
+
+# 테스트 파일
+test*
