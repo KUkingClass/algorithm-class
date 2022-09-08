@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1316
 n = int(input())
 ans = 0
 for case in range(n):
