@@ -9,7 +9,7 @@ fun main(args: Array<String>) = with(System.`in`.bufferedReader()) {
             words.add(readLine())
         }
 
-        // sol 1
+        // sol 1)
         val result = words.sortedWith { a, b ->
             when {
                 a.length > b.length -> 1
@@ -21,7 +21,7 @@ fun main(args: Array<String>) = with(System.`in`.bufferedReader()) {
             }
         }
 
-        // sol 2
+        // sol 2)
         val result = words.sortedWith(
             compareBy (
                 { it.length },
