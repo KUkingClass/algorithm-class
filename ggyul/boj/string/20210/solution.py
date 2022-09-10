@@ -32,7 +32,7 @@ def compare(x, y):
                     return -1
                 if x[l].islower() and y[r].isupper():
                     return 1
-            # 다른 문장리 경우
+            # 다른 문장일 경우
             elif x[l].upper() < y[r].upper():
                 return -1
             else:
