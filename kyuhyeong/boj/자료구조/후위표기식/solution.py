@@ -18,7 +18,7 @@ if __name__ == '__main__':
             stack.append(ch)
         elif ch == '(':
             stack.append(ch)
-        else:
+        else:  # case ')'
             while True:
                 top = stack.pop()
                 if top == '(':
