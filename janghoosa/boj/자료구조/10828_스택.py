@@ -1,5 +1,7 @@
 # 10828 스택
 # https://www.acmicpc.net/problem/10828
+import sys
+input = sys.stdin.readline
 N = int(input())
 stack = []
 for _ in range(N):

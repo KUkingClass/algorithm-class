@@ -7,10 +7,8 @@ def check(x):
     if x == x[::-1]:
         return 0
     return 1
-
 if check(A):
     print(len(A))
-
 elif check(B):
     print(len(B))
 else:
