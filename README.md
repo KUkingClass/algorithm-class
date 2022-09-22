@@ -24,7 +24,7 @@
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |
 | 01 | String | 문자열 | [바로가기](./workbook/string) | 19 | 64 |
 | 02 | Data Structure | 자료구조 | [바로가기](./workbook/자료구조) | 16 | 25 |
-| 03 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 |
+| 03 | Data Structure 2 | 자료구조 2 | [바로가기](./workbook/자료구조2) | 11 | 21 |
 | 04 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 |
 | 05 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 |
 | 06 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 |
