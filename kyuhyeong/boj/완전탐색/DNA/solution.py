@@ -7,7 +7,7 @@ if __name__ == '__main__':
     answer = ""
     distance = 0
     for dna in dnas:
-        nucleotide, count = sorted(Counter(dna).most_common(), key=lambda pair: (-pair[1], pair[0]))[0]
+        nucleotide, count = max(Counter(dna).most_common(), key=lambda pair: (pair[1], -ord(pair[0])))
         answer += nucleotide
         distance += n - count
 
