@@ -26,7 +26,7 @@
 | 02 | Data Structure | 자료구조 | [바로가기](./workbook/자료구조) | 16 | 25 |
 | 03 | Data Structure 2 | 자료구조 2 | [바로가기](./workbook/자료구조2) | 11 | 21 |
 | 04 | Brute Force | 완전탐색 | [바로가기](./workbook/완전탐색) | 33 | 94 |
-| 05 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 |
+| 05 | Implementation | 구현 | [바로가기](./workbook/구현) | 30 | 51 |
 | 06 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 |
 | 07 | Tree | 트리 | [바로가기](./tree) | 15 | 44 |
 | 08 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 |
@@ -44,4 +44,4 @@
 | 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 08 | 24 |
 | 21 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 |
 | 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 |
- 
+
