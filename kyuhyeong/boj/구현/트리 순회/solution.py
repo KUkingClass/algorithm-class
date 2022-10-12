@@ -26,7 +26,7 @@ if __name__ == '__main__':
 
     for _ in range(n):
         node, a, b = map(int, sys.stdin.readline().split())
-        tree[node]["children"] = [a, b]
+        tree[node]["children"].extend([a, b])
         if a != -1:
             tree[a]["parent"] = node
         if b != -1:
