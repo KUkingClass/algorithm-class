@@ -1,3 +1,8 @@
+'''
+https://www.acmicpc.net/problem/21608
+상어 초등학교
+'''
+
 n = int(input())
 prefer = [0]*(n*n+1)
 orders = []
