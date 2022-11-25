@@ -9,6 +9,7 @@ def dfs(cur, target):
 
     if len(cur) == 5:
         return
+
     for ch in ["A", "E", "I", "O", "U"]:
         cur += ch
         if dfs(cur, target):
