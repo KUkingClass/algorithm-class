@@ -27,9 +27,9 @@
 | 03 | Data Structure 2 | 자료구조 2 | [바로가기](./workbook/자료구조2) | 11 | 21 |
 | 04 | Brute Force | 완전탐색 | [바로가기](./workbook/완전탐색) | 33 | 94 |
 | 05 | Implementation | 구현 | [바로가기](./workbook/구현) | 30 | 51 |
-| 06 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 |
+| 06 | Simulation | 시뮬레이션 | [바로가기](./workbook/simulation) | 30 | 48 |
 | 07 | Tree | 트리 | [바로가기](./tree) | 15 | 44 |
-| 08 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 |
+| 08 | Greedy | 탐욕법 | [바로가기](./workbook/그리디) | 27 | 62 |
 | 09 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 |
 | 10 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 |
 | 11 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 |
